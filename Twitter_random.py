@@ -1,9 +1,6 @@
 from __future__ import absolute_import, print_function
-import tweepy
-import json
+import tweepy,json,random
 from pprint import pprint
-
-import random
 consumer_key=""
 consumer_secret = ""
 access_token = ""
